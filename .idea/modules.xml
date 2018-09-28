@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\develop\test\mvx\mvp\app.iml" filepath="E:\develop\test\mvx\mvp\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvx.iml" filepath="$PROJECT_DIR$/mvx.iml" />
+    </modules>
+  </component>
+</project>
